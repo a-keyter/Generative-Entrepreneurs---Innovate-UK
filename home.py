@@ -10,6 +10,7 @@ password = st.secrets['PASSWORD']
 st.title("Innovative Minds 🧠⭐")
 
 st.subheader("Welcome to Innovative Minds!")
+st.write("Hello, welcome to Innovative Minds, a Generative Minds project developed by Alex Keyter as part of my Innovate UK - Unlocking Potential application.")
 
 st.write("Innovative minds is a collection of examples of the AI powered tools that I want to develop to support Neurodiverse Entrepreneurs to run their own businesses.")
 
